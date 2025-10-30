@@ -27,8 +27,12 @@ Using script executors may violate Roblox's Terms of Service. Use this software 
 2. Launch the executor.
 3. Inject your script into Roblox and run it.
 
+## Troubleshooting
+If you experience issues while using **Xerthinium Executor**, visit our support page for possible causes and fixes:  
+👉 [https://xerthinium.dev/support](https://xerthinium.dev/support)
+
 ## Support
 
-For questions or issues, contact us at: [your email or Discord here]
+For questions or FAQ, contact us at: [your email or Discord here]
 
 
