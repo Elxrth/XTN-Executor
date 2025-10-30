@@ -4,11 +4,11 @@ Xerthinium Executor is a high-performance script execution tool designed for Rob
 
 ## Features
 
-- Fast script injection and execution
-- Smooth and reliable performance
-- Supports most Roblox scripts
-- Simple and intuitive interface
-- Compatible with the latest Roblox updates
+- Fast script injection and execution  
+- Smooth and reliable performance  
+- Supports most Roblox scripts  
+- Simple and intuitive interface  
+- Compatible with the latest Roblox updates  
 
 ## About Xerthinium
 
@@ -20,16 +20,28 @@ Using script executors may violate Roblox's Terms of Service. Use this software 
 
 ## Getting Started
 
-1. Download the latest version from the releases section.
-2. Launch the executor.
-3. Inject your script into Roblox and run it.
+1. Download the latest version from the releases section.  
+2. (Optional) Run the bootstrap to initialize the environment.  
+3. Launch the executor.  
+4. Inject your script into Roblox and run it.
+
+## Bootstrap
+
+A lightweight **bootstrap** is included with Xerthinium Executor.  
+It automatically runs through the **Windows Command Prompt (CMD)** to set up and start the executor.  
+
+When launched, it:
+- Checks required files and dependencies  
+- Initializes the environment  
+- Starts the main executor automatically  
+
+You’ll see its progress directly in a CMD window when running the tool — this is normal behavior.
 
 ## Troubleshooting
+
 If you experience issues while using **Xerthinium Executor**, visit our support page for possible causes and fixes:  
 👉 [https://xerthinium.dev/support](https://xerthinium.dev/support)
 
 ## Support
 
 For questions or FAQ, contact us at: [your email or Discord here]
-
-
