@@ -1,6 +1,6 @@
 # Xerthinium Executor
 
-<span style="color:red">Xerthinium Executor is a high-performance script execution tool designed for Roblox, developed by **Xerthinium**. It allows users to inject and run scripts smoothly, providing an intuitive interface and stable performance.</span>
+Xerthinium Executor is a high-performance script execution tool designed for Roblox, developed by **Xerthinium**. It allows users to inject and run scripts smoothly, providing an intuitive interface and stable performance.
 
 ## Features
 
