@@ -21,8 +21,8 @@ Using script executors may violate Roblox's Terms of Service. Use this software 
 ## Getting Started
 
 1. Download the latest version from the releases section.  
-2. (Optional) Run the bootstrap to initialize the environment.  
-3. Launch the executor.  
+2. Run the bootstrap to initialize the environment.  
+3. The bootstrap will automatically load the executor..  
 4. Inject your script into Roblox and run it.
 
 ## Bootstrap
